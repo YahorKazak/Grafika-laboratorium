@@ -23,11 +23,11 @@ Zad 2:
 
 Proszę napisać program w Octave, który realizuje poniższe zadania:
 
-o daje możliwość dodawania (odejmowania) do (od) siebie dwóch wektorów;
+ Daje możliwość dodawania (odejmowania) do (od) siebie dwóch wektorów;
 
-o iloczyn skalarny, wektorowy
+ Iloczyn skalarny, wektorowy
 
-o obliczanie długości wektora
+ Obliczanie długości wektora
 
 Zad 3:
 
